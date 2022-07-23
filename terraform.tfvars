@@ -1,0 +1,2 @@
+dockerhub_credentials = "arn:aws:secretsmanager:ap-southeast-2:949510079382:secret:aws-terraform-cicd-demo/dockerhub-JSDZoZ"
+codestar_connector_credentials = "arn:aws:codestar-connections:ap-southeast-2:949510079382:connection/8b0a4654-2f6f-4014-a2fc-5687af2dbf08"
