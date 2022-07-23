@@ -5,6 +5,7 @@
      /_/   \_\_/\_/  |____/   \____|_|\___/ \__,_|\__,_|  /_/ 
  ----------------------------------------------------------------- 
 
+![Capture](https://user-images.githubusercontent.com/53549619/180598786-8ba1a065-fb09-4206-9d66-7ed14b6c8e6c.PNG)
 
 Hi there! Welcome to AWS Cloud9!
 
